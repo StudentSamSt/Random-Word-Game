@@ -1,0 +1,12 @@
+D:\projects\Word Game\Word Game\obj\Debug\Word Game.csproj.AssemblyReference.cache
+D:\projects\Word Game\Word Game\obj\Debug\Word Game.csproj.SuggestedBindingRedirects.cache
+D:\projects\Word Game\Word Game\obj\Debug\Word_Game.Form1.resources
+D:\projects\Word Game\Word Game\obj\Debug\Word_Game.Properties.Resources.resources
+D:\projects\Word Game\Word Game\obj\Debug\Word_Game.Resource1.resources
+D:\projects\Word Game\Word Game\obj\Debug\Word Game.csproj.GenerateResource.cache
+D:\projects\Word Game\Word Game\obj\Debug\Word Game.csproj.CoreCompileInputs.cache
+D:\projects\Word Game\Word Game\bin\Debug\Word Game.exe.config
+D:\projects\Word Game\Word Game\bin\Debug\Word Game.exe
+D:\projects\Word Game\Word Game\bin\Debug\Word Game.pdb
+D:\projects\Word Game\Word Game\obj\Debug\Word Game.exe
+D:\projects\Word Game\Word Game\obj\Debug\Word Game.pdb
